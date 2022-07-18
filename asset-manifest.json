@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d84483c5.css",
+    "main.js": "/static/js/main.80975a16.js",
+    "static/media/2.png": "/static/media/2.3813ccc885e2ce59e469.png",
+    "static/media/3.png": "/static/media/3.c0a3ce86a4aee814aac5.png",
+    "static/media/background.jpg": "/static/media/background.401666d8ef80e2f81b16.jpg",
+    "static/media/kfc.jpg": "/static/media/kfc.3ee30e09e2952381e559.jpg",
+    "static/media/1.jpg": "/static/media/1.7168f6696901a305f82c.jpg",
+    "static/media/best.jpg": "/static/media/best.2eedad0b1d442b43a9b8.jpg",
+    "static/media/main-logo.webp": "/static/media/main-logo.00da2ddfeff0d91ec613.webp",
+    "static/media/2.jpg": "/static/media/2.bd0b17b704b03ded8519.jpg",
+    "static/media/logo.png": "/static/media/logo.2e65457e9a1368218df4.png",
+    "static/media/3.jpg": "/static/media/3.544960196ff842b744cf.jpg",
+    "static/media/logo.svg": "/static/media/logo.c2065a59b69ec9f5d9eb88aaf7b2db62.svg",
+    "index.html": "/index.html",
+    "static/media/cross.svg": "/static/media/cross.0b91fc7b2788823fe71dea4dbf7099a7.svg",
+    "main.d84483c5.css.map": "/static/css/main.d84483c5.css.map",
+    "main.80975a16.js.map": "/static/js/main.80975a16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d84483c5.css",
+    "static/js/main.80975a16.js"
+  ]
+}
